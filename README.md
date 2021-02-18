@@ -10,7 +10,7 @@ general Forum can be found here: https://www.pathofexile.com/forum
 
 <getting started>
   * Road Map Tool https://poe-roadmap.com/
-  * PoE Cheat Sheet https://docs.google.com/spreadsheets/d/1fIs8sdvgZG7iVouPdtFkbRx5kv55_xVja8l19yubyRU/htmlview?pru=AAABdzsP-2o*mj3Re8pfXmkmfh0yzzg91Q#gid=1995599043
+  * PoE Cheat Sheet <a href="https://docs.google.com/spreadsheets/d/1fIs8sdvgZG7iVouPdtFkbRx5kv55_xVja8l19yubyRU/htmlview?pru=AAABdzsP-2o*mj3Re8pfXmkmfh0yzzg91Q#gid=1995599043">Google Doc</a>
 
 
 <strong>Mechanics</strong>
