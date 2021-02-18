@@ -28,7 +28,7 @@ Heist
 
 Blight
 <ul>
-  <li><a href="https://blight.raelys.com/">Blight Helper</a></li><
+  <li><a href="https://blight.raelys.com/">Blight Helper</a></li>
 </ul>
 
 <strong>Crafting</strong>
@@ -44,9 +44,13 @@ Pricing
   <li><a href="https://www.poeprices.info/">Price Check</a></li>
   </ul>
 
+Filter
+<ul>
+  <li><a href="https://www.filterblade.xyz/">Filterblade</a></li>
+ </ul> 
 Build
 <ul>
-  <li><a href=https://github.com/Openarl/PathOfBuilding/">Path of Building</al></li>
+  <li><a href="https://github.com/Openarl/PathOfBuilding/">Path of Building</a></li>
     <li><a href="https://pathofbuilding.community/">PoB Community Fork</a></li>
     <li><a href="https://poe.ninja/challenge/builds">POE.ninja Build compare</a></li>
 </ul>
