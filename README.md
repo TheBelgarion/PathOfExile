@@ -25,6 +25,11 @@ Heist
   <li><a href="https://old.reddit.com/r/pathofexile/comments/jgec5u/heist_cheat_sheet_final_all_in_one_edition/">Heist Cheat Sheet</a></li>
   </ul>
 
+Harvest
+<ul>
+  <li><a href="https://github.com/caxerx/PoEHarvestPlanner"Harvest Planer (no longer required)</a></li>
+  </ul>
+  
 Blight
 <ul>
   <li><a href="https://blight.raelys.com/">Blight Helper</a></li>
