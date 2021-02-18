@@ -14,7 +14,8 @@ general Forum can be found here: https://www.pathofexile.com/forum
   <li><a href="https://docs.google.com/spreadsheets/d/1fIs8sdvgZG7iVouPdtFkbRx5kv55_xVja8l19yubyRU/htmlview?pru=AAABdzsP-2o*mj3Re8pfXmkmfh0yzzg91Q#gid=1995599043">PoE Cheat Sheet - Google Doc</a></li>
   </ul>
 
-<strong>Mechanics</strong><br/>
+<strong>League Mechanics</strong><br/>
+
 Syndicate
 <ul>
   <li><a href="https://poetools.github.io/BetrayalCheatSheet/"> Betrayal Cheat Sheet</a></li>
@@ -27,7 +28,7 @@ Heist
 
 Harvest
 <ul>
-  <li><a href="https://github.com/caxerx/PoEHarvestPlanner"Harvest Planer (no longer required)</a></li>
+  <li><a href="https://github.com/caxerx/PoEHarvestPlanner">Harvest Planer (no longer required)</a></li>
   </ul>
   
 Blight
