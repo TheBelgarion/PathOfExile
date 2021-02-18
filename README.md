@@ -9,40 +9,59 @@ general Forum can be found here: https://www.pathofexile.com/forum
 
 
 <getting started>
-  * Road Map Tool https://poe-roadmap.com/
-  * PoE Cheat Sheet <a href="https://docs.google.com/spreadsheets/d/1fIs8sdvgZG7iVouPdtFkbRx5kv55_xVja8l19yubyRU/htmlview?pru=AAABdzsP-2o*mj3Re8pfXmkmfh0yzzg91Q#gid=1995599043">Google Doc</a>
-
+<ul>
+  <li><a href="https://poe-roadmap.com/"> POE Road Map Tool </a></li>
+  <li><a href="https://docs.google.com/spreadsheets/d/1fIs8sdvgZG7iVouPdtFkbRx5kv55_xVja8l19yubyRU/htmlview?pru=AAABdzsP-2o*mj3Re8pfXmkmfh0yzzg91Q#gid=1995599043">PoE Cheat Sheet - Google Doc</a></li>
+  </ul>
 
 <strong>Mechanics</strong>
 
 Syndicate
-* https://poetools.github.io/BetrayalCheatSheet/
+<ul>
+  <li><a href="https://poetools.github.io/BetrayalCheatSheet/"> Betrayal Cheat Sheet</a></li>
+  </ul>
 
 Heist
-* Cheat Sheet https://old.reddit.com/r/pathofexile/comments/jgec5u/heist_cheat_sheet_final_all_in_one_edition/
+<ul> 
+  <li><a href="https://old.reddit.com/r/pathofexile/comments/jgec5u/heist_cheat_sheet_final_all_in_one_edition/">Heist Cheat Sheet</a></li>
+  </ul>
 
 Blight
-* Anointing https://blight.raelys.com/
+<ul>
+  <li><a href="https://blight.raelys.com/">Blight Helper</a></li><
+</ul>
 
 <strong>Crafting</strong>
-  * POEDB https://poedb.tw/us/mod.php
-  * Chromatic Calculator https://siveran.github.io/calc.html
+ <ul>
+  <li><a href="https://poedb.tw/us/mod.php">POE DB</a></li>
+  <li><a href="https://siveran.github.io/calc.html">Chromatic Calculator</a></li>
+  </ul>
 
 <strong>Tools</strong>
 Pricing
-* POE.ninja Economy https://poe.ninja/
-* Price Check - https://www.poeprices.info/
+<ul>
+  <li><a href="https://poe.ninja/">POE.ninja Economy</a></li>
+  <li><a href="https://www.poeprices.info/">Price Check</a></li>
+  </ul>
 
 Build
-* Path of Building https://github.com/Openarl/PathOfBuilding/
-* PoB Community Fork https://pathofbuilding.community/
-* POE.ninja Build compare https://poe.ninja/challenge/builds
+<ul>
+  <li><a href=https://github.com/Openarl/PathOfBuilding/">Path of Building</al></li>
+    <li><a href="https://pathofbuilding.community/">PoB Community Fork</a></li>
+    <li><a href="https://poe.ninja/challenge/builds">POE.ninja Build compare</a></li>
+</ul>
 
 Trade
-* Main Trade https://www.pathofexile.com/trade
-* POE Trade https://poe.trade/
+<ul><li><a href="https://www.pathofexile.com/trade">Main Trade</a></li>
+  <li><a href="https://poe.trade/">POE Trade </a></li>
+  </ul>
 
 <div>
-  disclaimer: No links to website dealing in selling in-game items for real currency or other activites which are against the TOS
+  disclaimer: 
+  * No links to website dealing in selling in-game items for real currency or other activites which are against the TOS!
+  * all right reserved by their respective owners
+  * this is just a link list
+  * If you want to add ( or remove ) something just send a merge request.
+  * Thx! 
   </div>
 </html>
