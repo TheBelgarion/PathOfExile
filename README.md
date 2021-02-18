@@ -15,7 +15,6 @@ general Forum can be found here: https://www.pathofexile.com/forum
   </ul>
 
 <strong>Mechanics</strong>
-
 Syndicate
 <ul>
   <li><a href="https://poetools.github.io/BetrayalCheatSheet/"> Betrayal Cheat Sheet</a></li>
@@ -35,6 +34,7 @@ Blight
  <ul>
   <li><a href="https://poedb.tw/us/mod.php">POE DB</a></li>
   <li><a href="https://siveran.github.io/calc.html">Chromatic Calculator</a></li>
+  <li><a href="https://www.craftofexile.com/">Craft of Exile</a></li>
   </ul>
 
 <strong>Tools</strong>
