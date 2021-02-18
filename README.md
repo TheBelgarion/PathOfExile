@@ -66,6 +66,23 @@ Trade
   <li><a href="https://poe.trade/">POE Trade </a></li>
   </ul>
 
+<strong>in game channels</strong>
+<ul><li>Trial/Completion Sharing: <i>/global 820</i></li>
+
+<li>Service/Challenge/Harvest Craft Trading: <i>/trade 820</i></li>
+
+<li>Sulphite Rotations: <i>/global 840</i></li>
+<li>Challenge Completion Sharing (no trading): <i>/global 4040</i></li>
+
+<li>Map Swapping: <i>/trade 159</i></li>
+
+<li>In-Game Chat: <i>/global 5055</i></li>
+
+<li>Questions/Help: <i>/global 411</i></li>
+
+<li>SSF Chat: <i>/global 773</i></li>
+</ul>
+
 <div>
   disclaimer: 
   <ul><li>No links to website dealing in selling in-game items for real currency or other activites which are against the TOS!</li>
