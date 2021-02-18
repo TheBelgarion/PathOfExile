@@ -58,10 +58,11 @@ Trade
 
 <div>
   disclaimer: 
-  * No links to website dealing in selling in-game items for real currency or other activites which are against the TOS!
-  * all right reserved by their respective owners
-  * this is just a link list
-  * If you want to add ( or remove ) something just send a merge request.
-  * Thx! 
+  <ul><li>No links to website dealing in selling in-game items for real currency or other activites which are against the TOS!</li>
+    <li>all right reserved by their respective owners</li>
+    <li>this is just a list of links for a centralized collection</li>
+    <li>If you want to add ( or remove ) something just send a merge request.</li>
+  
+  <b>Thx!</b> 
   </div>
 </html>
