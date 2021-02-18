@@ -8,13 +8,13 @@ link collection for all links and external tools related to Path of Exile / PoE
 general Forum can be found here: https://www.pathofexile.com/forum
 
 
-<getting started>
+<strong>Getting started</strong><br/>
 <ul>
   <li><a href="https://poe-roadmap.com/"> POE Road Map Tool </a></li>
   <li><a href="https://docs.google.com/spreadsheets/d/1fIs8sdvgZG7iVouPdtFkbRx5kv55_xVja8l19yubyRU/htmlview?pru=AAABdzsP-2o*mj3Re8pfXmkmfh0yzzg91Q#gid=1995599043">PoE Cheat Sheet - Google Doc</a></li>
   </ul>
 
-<strong>Mechanics</strong>
+<strong>Mechanics</strong><br/>
 Syndicate
 <ul>
   <li><a href="https://poetools.github.io/BetrayalCheatSheet/"> Betrayal Cheat Sheet</a></li>
@@ -30,14 +30,14 @@ Blight
   <li><a href="https://blight.raelys.com/">Blight Helper</a></li>
 </ul>
 
-<strong>Crafting</strong>
+<strong>Crafting</strong><br/>
  <ul>
   <li><a href="https://poedb.tw/us/mod.php">POE DB</a></li>
   <li><a href="https://siveran.github.io/calc.html">Chromatic Calculator</a></li>
   <li><a href="https://www.craftofexile.com/">Craft of Exile</a></li>
   </ul>
 
-<strong>Tools</strong>
+<strong>Tools</strong><br/>
 Pricing
 <ul>
   <li><a href="https://poe.ninja/">POE.ninja Economy</a></li>
