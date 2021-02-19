@@ -39,7 +39,10 @@ Blight
 <strong>Fights</strong><br/>
  <ul>
   <li><a href="https://www.youtube.com/watch?v=70olr1KMorU">Shaper</a></li>
-
+  <li><a href="https://www.youtube.com/watch?v=70olr1KMorU">Elder</a></li>
+  <li><a href="https://www.youtube.com/watch?v=70olr1KMorU">Uber Elder</a></li>
+</ul>
+also check Map fragments for any questions https://pathofexile.gamepedia.com/Map_fragment
 
 <strong>Crafting</strong><br/>
  <ul>
