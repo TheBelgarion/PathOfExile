@@ -36,6 +36,11 @@ Blight
   <li><a href="https://blight.raelys.com/">Blight Helper</a></li>
 </ul>
 
+<strong>Fights</strong><br/>
+ <ul>
+  <li><a href="https://www.youtube.com/watch?v=70olr1KMorU">Shaper</a></li>
+
+
 <strong>Crafting</strong><br/>
  <ul>
   <li><a href="https://poedb.tw/us/mod.php">POE DB</a></li>
