@@ -12,24 +12,24 @@ general Forum can be found here: https://www.pathofexile.com/forum
 <ul>
   <li><a href="https://poe-roadmap.com/"> POE Road Map Tool </a></li>
   <li><a href="https://docs.google.com/spreadsheets/d/1fIs8sdvgZG7iVouPdtFkbRx5kv55_xVja8l19yubyRU/htmlview?pru=AAABdzsP-2o*mj3Re8pfXmkmfh0yzzg91Q#gid=1995599043">PoE Cheat Sheet - Google Doc</a></li>
-  </ul>
+</ul>
 
 <strong>League Mechanics</strong><br/>
 
 Syndicate
 <ul>
   <li><a href="https://poetools.github.io/BetrayalCheatSheet/#share=H4sIAAAAAAAAA4s20CEGGgGhsY4hEBuDWTCMEIGpgUBDOEYWNQCLGUH1GIJlISwICcIGcL4xVK8R3BaICuNYAKOvaPG1AAAA"> Betrayal Cheat Sheet</a></li>
-  </ul>
+</ul>
 
 Heist
 <ul> 
   <li><a href="https://old.reddit.com/r/pathofexile/comments/jgec5u/heist_cheat_sheet_final_all_in_one_edition/">Heist Cheat Sheet</a></li>
-  </ul>
+</ul>
 
 Harvest
 <ul>
   <li><a href="https://github.com/caxerx/PoEHarvestPlanner">Harvest Planer (no longer required)</a></li>
-  </ul>
+</ul>
   
 Blight
 <ul>
@@ -49,30 +49,37 @@ also check Map fragments for any questions https://pathofexile.gamepedia.com/Map
   <li><a href="https://poedb.tw/us/mod.php">POE DB</a></li>
   <li><a href="https://siveran.github.io/calc.html">Chromatic Calculator</a></li>
   <li><a href="https://www.craftofexile.com/">Craft of Exile</a></li>
-  </ul>
+</ul>
 
 <strong>Tools</strong><br/>
 Pricing
 <ul>
   <li><a href="https://poe.ninja/">POE.ninja Economy</a></li>
   <li><a href="https://www.poeprices.info/">Price Check</a></li>
-  </ul>
+</ul>
 
 Filter
 <ul>
   <li><a href="https://www.filterblade.xyz/">Filterblade</a></li>
- </ul> 
+</ul> 
+
 Build
 <ul>
   <li><a href="https://github.com/Openarl/PathOfBuilding/">Path of Building</a></li>
-    <li><a href="https://pathofbuilding.community/">PoB Community Fork</a></li>
-    <li><a href="https://poe.ninja/challenge/builds">POE.ninja Build compare</a></li>
+  <li><a href="https://pathofbuilding.community/">PoB Community Fork</a></li>
+  <li><a href="https://poe.ninja/challenge/builds">POE.ninja Build compare</a></li>
 </ul>
 
 Trade
-<ul><li><a href="https://www.pathofexile.com/trade">Main Trade</a></li>
+<ul>
+  <li><a href="https://www.pathofexile.com/trade">Main Trade</a></li>
   <li><a href="https://poe.trade/">POE Trade </a></li>
-  </ul>
+</ul>
+
+Tracker
+<ul>
+  <li><a href="https://github.com/viktorgullmark/exilence-next">Exilence Next</a></li>
+</ul>
 
 <strong>in game channels</strong>
 <ul><li>Trial/Completion Sharing: <i>/global 820</i></li>
@@ -91,6 +98,16 @@ Trade
 <li>SSF Chat: <i>/global 773</i></li>
 </ul>
 
+
+<strong>Discord</strong>
+<ul>
+  <li><a href="https://discord.gg/pathofexile">Path of Exile - Main</a></li>
+  <li><a href="https://discord.gg/ecaK8qvAKS">Path of Exile Trading</a></li> 
+  <li><a href="https://discord.gg/mye6xhF">Filterblade</a></li>
+  <li><a href="https://discord.gg/vGMN5h5U4x">TFT - The Forbidden Trove</a></li>
+  <li><a href="https://discord.gg/yxuBrPY">Exilence Next</a></li>
+</ul>
+  
 <div>
   disclaimer: 
   <ul><li>No links to website dealing in selling in-game items for real currency or other activites which are against the TOS!</li>
