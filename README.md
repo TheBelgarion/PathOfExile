@@ -43,7 +43,7 @@ Blight
   <li><a href="">Uber Elder</a></li>
 </ul>
 also check Map fragments for any questions https://pathofexile.gamepedia.com/Map_fragment
-
+</br>
 <strong>Crafting</strong><br/>
  <ul>
   <li><a href="https://poedb.tw/us/mod.php">POE DB</a></li>
