@@ -18,7 +18,7 @@ general Forum can be found here: https://www.pathofexile.com/forum
 
 Syndicate
 <ul>
-  <li><a href="https://poetools.github.io/BetrayalCheatSheet/"> Betrayal Cheat Sheet</a></li>
+  <li><a href="https://poetools.github.io/BetrayalCheatSheet/#share=H4sIAAAAAAAAA4s20CEGGgGhsY4hEBuDWTCMEIGpgUBDOEYWNQCLGUH1GIJlISwICcIGcL4xVK8R3BaICuNYAKOvaPG1AAAA"> Betrayal Cheat Sheet</a></li>
   </ul>
 
 Heist
